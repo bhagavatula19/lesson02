@@ -1,4 +1,4 @@
-ass HelloJava {
+class HelloJava {
 
 
 
